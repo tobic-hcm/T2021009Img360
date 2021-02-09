@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1960919103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 427abcff35bf900989275a6566470a8f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 862c161c1e3bb19b1de09a53c16f476d
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_XR/Point/p20.jpg
+Dependencies: []
