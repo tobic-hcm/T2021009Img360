@@ -1,17 +1,16 @@
 ManifestFileVersion: 0
-CRC: 3566573945
+CRC: 3297986007
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ba1e0e0d3a3da760532c32afe7a5f57c
+    Hash: d0031ba0ef1dec2ced6923c56f8f8126
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 862c161c1e3bb19b1de09a53c16f476d
+    Hash: 7ae03148ccc2d81279420f9cf5a52f48
 HashAppended: 0
 ClassTypes:
 - Class: 89
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/_XR/Point/p82.jpg
 Dependencies: []
